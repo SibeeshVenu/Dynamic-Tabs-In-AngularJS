@@ -1,0 +1,26 @@
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\Dynamic Tabs In ANgular JS.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\Dynamic Tabs In ANgular JS.pdb
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\Microsoft.Web.Infrastructure.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\Newtonsoft.Json.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Net.Http.Formatting.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Helpers.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Http.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Http.WebHost.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Mvc.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Razor.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.Deployment.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.Razor.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\Newtonsoft.Json.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Net.Http.Formatting.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Helpers.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Http.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Http.WebHost.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Mvc.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.Razor.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.Deployment.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\bin\System.Web.WebPages.Razor.xml
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\obj\Debug\Dynamic Tabs In ANgular JS.csprojResolveAssemblyReference.cache
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\obj\Debug\Dynamic Tabs In ANgular JS.dll
+C:\SVenu\Dynamic Tabs In ANgular JS\Dynamic Tabs In ANgular JS\obj\Debug\Dynamic Tabs In ANgular JS.pdb
